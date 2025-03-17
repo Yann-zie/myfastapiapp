@@ -1,0 +1,14 @@
+Timestamp,Prompt,Detected Emotion
+2025-02-20 17:04:27,Error: Unable to recognize speech.,sadness
+2025-02-20 17:08:28,Error: Unable to recognize speech.,sadness
+2025-02-20 17:12:23,I want to start a business,joy
+2025-02-20 17:15:33,start a business,fear
+2025-02-20 17:16:34,Error: Unable to recognize speech.,sadness
+2025-02-20 17:22:04,I'm hungry,sadness
+2025-02-20 17:26:17,I want to drink some shots,neutral
+2025-02-20 17:28:41,I'm looking for,neutral
+2025-02-20 17:33:38,places to travel,neutral
+2025-02-28 13:05:46,Financial Management,neutral
+2025-03-14 15:13:15,Error: Could not find PyAudio; check installation,sadness
+2025-03-14 15:32:35,you want to start a business,joy
+2025-03-17 16:25:59,Error: Unable to recognize speech.,sadness
